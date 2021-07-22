@@ -21,7 +21,7 @@ TinyRobot summary of TheScience
   * The robot structure was designed so that the smart composite microstructures (SCM) manufacturing process could be applied (24).
 
 * The TRC mechanism
-  * When heated above its transition temperature, the actuator’s stiffness changes, inducing a negative strain and pulling the passive trigger in the body structure until the torque direction is reversed (Fig. 3, A to C).
-  * A thin heating wire was carefully placed just below the robot body to activate the SMA actuator. As the SMA actuator transitions, the force increases, and the passive trigger begins to bend (Fig. 3, A to C).When the actuator passes through the center joint, the torque direction changes, and the body structure folds downward, generating a rapid snap-through.
+  * When **heated** above its transition temperature, the actuator’s stiffness changes, inducing a negative strain and pulling the passive trigger in the body structure until the torque direction is reversed (Fig. 3, A to C).
+  * A thin **heating wire** was carefully placed just below the robot body to activate the SMA actuator. As the SMA actuator transitions, the force increases, and the passive trigger begins to bend (Fig. 3, A to C).When the actuator passes through the center joint, the torque direction changes, and the body structure folds downward, generating a rapid snap-through.
 
 * 
