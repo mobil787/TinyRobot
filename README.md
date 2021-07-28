@@ -28,7 +28,9 @@ https://science.sciencemag.org/content/349/6247/517
 
 * Fabrication and Materials
   * The robot structure was designed so that the smart composite microstructures (SCM) manufacturing process could be applied (24).
-  * Fabrication of the jumping robotic insect using SCM (Fig. S5).
+  * Fabrication of the jumping robotic insect using SCM (Fig. S5).  
+  ![img](./images/01_3.png)  
+  <img src="./images/01_3.png" alt="img" style="zoom:20%;" />
 
 * The TRC mechanism
   * The robot was untethered but **triggered by external heat**. The heating wire (Ni-Cr wire) protruded 1 mm from the free surface, and the actuator was positioned right above the heating wire when the robot was put on the free surface. The actuator was heated by thermal convection around the heating wire until the torque direction reversed.
