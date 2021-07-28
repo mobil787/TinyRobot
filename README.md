@@ -1,7 +1,14 @@
 # TinyRobot
 TinyRobot summary of TheScience
 
-### [M01] Water Strider
+### [M01] Water Strider 机器水黾
+https://science.sciencemag.org/content/349/6247/517  
+
+#### Abstract: 
+1. 利用superhydrophobic材料依靠水面张力弹跳；  
+2. 加热SMA(形状记忆合金)产生形变弹力驱动
+* 
+
 #### abbrev
 * SMA: shape memory alloy 形状记忆合金
 * SCM: smart composite microstructures
@@ -19,6 +26,7 @@ TinyRobot summary of TheScience
 
 * Fabrication and Materials
   * The robot structure was designed so that the smart composite microstructures (SCM) manufacturing process could be applied (24).
+  * Fabrication of the jumping robotic insect using SCM (Fig. S5).
 
 * The TRC mechanism
   * The robot was untethered but **triggered by external heat**. The heating wire (Ni-Cr wire) protruded 1 mm from the free surface, and the actuator was positioned right above the heating wire when the robot was put on the free surface. The actuator was heated by thermal convection around the heating wire until the torque direction reversed.
