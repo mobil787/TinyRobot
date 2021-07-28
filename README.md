@@ -7,7 +7,9 @@ https://science.sciencemag.org/content/349/6247/517
 #### Abstract: 
 1. 利用superhydrophobic材料依靠水面张力弹跳；  
 2. 加热SMA(形状记忆合金)产生形变弹力驱动
-* 
+
+![img](./images/01_1.png)  
+![img](./images/01_2.png)  
 
 #### abbrev
 * SMA: shape memory alloy 形状记忆合金
