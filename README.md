@@ -51,7 +51,10 @@ year: 2021
 
 #### abbrev
 * curved unimorph piezoelectric film 可弯曲的单压电薄膜
-* 
+* light-induced motion adjustment controls 光感运动调整
+* SEM: scanning electron microscopy 扫描电子显微镜 
+* PVDF: piezoelectric polyvinylidene fluoride 压电聚偏二氟乙烯
+* PET: polyethylene terephthalate 聚对苯二甲酸乙二醇酯（树脂材料）
 
 #### Key word
 
