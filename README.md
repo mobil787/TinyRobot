@@ -4,7 +4,7 @@ TinyRobot summary of TheScience
 
 ### [M01] Water Strider 机器水黾
 https://science.sciencemag.org/content/349/6247/517  
-
+year: 2015
 #### Abstract: 
 1. 利用superhydrophobic材料依靠水面张力弹跳；  
 2. 加热SMA(形状记忆合金)产生形变弹力驱动
@@ -38,4 +38,24 @@ https://science.sciencemag.org/content/349/6247/517
   * When **heated** above its transition temperature, the actuator’s stiffness changes, inducing a negative strain and pulling the passive trigger in the body structure until the torque direction is reversed (Fig. 3, A to C).
   * A thin **heating wire** was carefully placed just below the robot body to activate the SMA actuator. As the SMA actuator transitions, the force increases, and the passive trigger begins to bend (Fig. 3, A to C).When the actuator passes through the center joint, the torque direction changes, and the body structure folds downward, generating a rapid snap-through.
 
+---
+
+
+### [M04] Electrostatic footpads insect-scale soft robots 机器小强软体机器人
+https://robotics.sciencemag.org/content/6/55/eabe7906  
+year: 2021
+
+#### Abstract:   
+1.  
+2. 
+
+#### abbrev
+* SMA: shape memory alloy 形状记忆合金
 * 
+
+#### Key word
+
+
+
+
+
