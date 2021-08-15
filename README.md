@@ -58,6 +58,24 @@ year: 2021
 
 #### Notes
  * 1. conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
+ * 2. strategy 
+    * In nature, insects having flexible bodies can dynamically tune the friction force with secretions between their feet and the ground to improve locomotion (23–27). Similar schemes have been emulated in small-scale robots to accomplish various exceptional functions, such as climbing on a vertical wall using the electrostatic force for attachments (7, 19). 
+    * Inspired by this strategy, a tethered prototype soft robot has been built by using a **curved unimorph piezoelectric film structure** as the main body for fast moving speeds, and two electrostatic footpads have been implemented for speedy turning motions.
+    * The friction force between the electrostatic footpads and the ground can be independently adjusted by varying the footpads DC bias voltages to regulate the moving trajectory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
