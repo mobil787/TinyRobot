@@ -50,12 +50,14 @@ year: 2021
 2. 
 
 #### abbrev
-* SMA: shape memory alloy 形状记忆合金
+* curved unimorph piezoelectric film 可弯曲的单压电薄膜
 * 
 
 #### Key word
 
 
+#### Notes
+ * 1. conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
 
 
 
