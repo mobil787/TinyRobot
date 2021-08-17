@@ -18,7 +18,7 @@ year: 2015
 * GFRP: glass fiber reinforced plate
 * TRC: torque reversal catapult 转矩逆转弹射器
 
-#### Key word
+#### Key notes
 * Passive Trigger
   * Experiments were performed on a range of passive trigger specimens to determine the relationship between pulling force and deflection (Fig. S6C).
   * Using the model, we can design the triggering force of the passive trigger when it attains the required deflection for triggering.
@@ -55,16 +55,19 @@ year: 2021
 * SEM: scanning electron microscopy 扫描电子显微镜 
 * PVDF: piezoelectric polyvinylidene fluoride 压电聚偏二氟乙烯
 * PET: polyethylene terephthalate 聚对苯二甲酸乙二醇酯（树脂材料）
+* PI: polyimide 聚酰亚胺（一种高性能工程材料,在高温下具有优异的物理和化学性能,已作为多种材料广泛应用于微电子包装、高温粘合剂及复合材料等）
 
 #### Key word
 
 
 #### Notes
- * 1. conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
- * 2. strategy 
-    * In nature, insects having flexible bodies can dynamically tune the friction force with secretions between their feet and the ground to improve locomotion (23–27). Similar schemes have been emulated in small-scale robots to accomplish various exceptional functions, such as climbing on a vertical wall using the electrostatic force for attachments (7, 19). 
-    * Inspired by this strategy, a tethered prototype soft robot has been built by using a **curved unimorph piezoelectric film structure** as the main body for fast moving speeds, and two electrostatic footpads have been implemented for speedy turning motions.
-    * The friction force between the electrostatic footpads and the ground can be independently adjusted by varying the footpads DC bias voltages to regulate the moving trajectory.
+ * 1.conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
+ * 2.strategy 
+    * In nature, insects having flexible bodies can dynamically tune the friction force with secretions between their feet and the ground to improve locomotion (23–27). Similar schemes have been emulated in small-scale robots to accomplish various exceptional functions, such as climbing on a vertical wall using the electrostatic force for attachments (7, 19).  The friction force between the electrostatic footpads and the ground can be independently adjusted by varying the footpads DC bias voltages to regulate the moving trajectory.
+    * Inspired by this strategy, a tethered prototype soft robot has been built by using a **curved unimorph piezoelectric film structure** as the main body for fast moving speeds, and two electrostatic footpads have been implemented for speedy turning motions. The robot is composed of a main body, a rear leg, and two front legs with electrostatic footpads. The front leg is 4 mm in height and is composed of PET/silicone/electrode/ PI. The rear leg is a piece of PET film attached to the tail of the robot’s main body, with a height of 3.5 mm.
+    ![image](https://user-images.githubusercontent.com/26667177/129678114-f1b5deb6-4e39-4b5b-bb2e-1ad4f43d7db1.png)
+    * The fabrication processes are given in Materials and Methods on the basis of the previous work (18) with added electrostatic footpads.
+    * Under the excitation of an AC driving voltage at the structural resonant frequency (113 to 190 Hz for the prototypes with slightly different design and fabrication variations), **the curved piezoelectric unimorph structure can extend and shrink repeatedly to result in the rear leg and the two front legs striking the ground for fast forward movements** (fig. S1).
 
 
 
