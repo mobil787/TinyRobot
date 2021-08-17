@@ -76,14 +76,14 @@ year: 2021
     
     ![image](https://user-images.githubusercontent.com/26667177/129682226-fcffb69e-27fc-44d3-9d22-127450cce31c.png)
     
-  * 5.Untethered design
+  * 4.Untethered design
     * An untethered version of the soft robot (2.4 cm by 2.2 cm, 240 mg) together with **a payload of 1.66 g** —including a battery (3.7 V, 40 mAh; HuiXinLi Inc.), two photo sensors (GL3549, JCGL Inc.), and a flexible circuit board. The measured resonance frequency was 410 Hz; Specifically, the circuit can output a 500-Vpp driving voltage to the robot’s main body. 
     * two photoresistors were used to realize the turning function of the robot with an analog control scheme (53) as illustrated in Fig. 5C, with a detailed circuit diagram in fig. S16A.
     
     ![image](https://user-images.githubusercontent.com/26667177/129729155-0fa969a0-ebce-4478-8882-1b28e7f3d543.png)
     ![image](https://user-images.githubusercontent.com/26667177/129729346-66697298-9c1e-4b99-91d5-bce931b2ea2e.png)
     
-  * 4.Fabrication   
+  * 5.Fabrication   
     * The fabrication processes are given in Materials and Methods on the basis of the previous work (18) with added electrostatic footpads.
     
     ![image](https://user-images.githubusercontent.com/26667177/129730400-57d5ab68-be50-4fa9-917b-d61cc1b22b42.png)
