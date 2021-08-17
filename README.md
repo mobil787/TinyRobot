@@ -65,10 +65,18 @@ year: 2021
  * 2.strategy 
     * In nature, insects having flexible bodies can dynamically tune the friction force with secretions between their feet and the ground to improve locomotion (23–27). Similar schemes have been emulated in small-scale robots to accomplish various exceptional functions, such as climbing on a vertical wall using the electrostatic force for attachments (7, 19).  The friction force between the electrostatic footpads and the ground can be independently adjusted by varying the footpads DC bias voltages to regulate the moving trajectory.
     * Inspired by this strategy, a tethered prototype soft robot has been built by using a **curved unimorph piezoelectric film structure** as the main body for fast moving speeds, and two electrostatic footpads have been implemented for speedy turning motions. The robot is composed of a main body, a rear leg, and two front legs with electrostatic footpads. The front leg is 4 mm in height and is composed of PET/silicone/electrode/ PI. The rear leg is a piece of PET film attached to the tail of the robot’s main body, with a height of 3.5 mm.
+    * The electrostatic front footpad has the design shape of a droplet and is made of a polyimide (PI; 5 m in thickness) film at the bottom with a Ti/Au (10/100 nm) electrode on the top. The total footpad area is 32 mm2, as shown in Fig. 1C. A PET frame is attached on top of the footpad with the help of silicone adhesive as the mechanical support. The electrodes of the right and left footpads are connected to the bottom and top electrodes of the piezoelectric unimorph robot body, respectively. The droplet-shaped design is helpful to enlarge the contact area between the footpad and the ground surface with little impact on the linear moving speed. The
     ![image](https://user-images.githubusercontent.com/26667177/129678114-f1b5deb6-4e39-4b5b-bb2e-1ad4f43d7db1.png)
+    
+  * 3.Fabrication   
     * The fabrication processes are given in Materials and Methods on the basis of the previous work (18) with added electrostatic footpads.
+    
+  * 4.Motion  
     * Under the excitation of an AC driving voltage at the structural resonant frequency (113 to 190 Hz for the prototypes with slightly different design and fabrication variations), **the curved piezoelectric unimorph structure can extend and shrink repeatedly to result in the rear leg and the two front legs striking the ground for fast forward movements** (fig. S1).
+    ![image](https://user-images.githubusercontent.com/26667177/129679808-aaf42f49-e9df-4e0c-a8a9-0a3ed6f4376e.png)
 
+    
+    
 
 
 
