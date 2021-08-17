@@ -69,10 +69,7 @@ year: 2021
     * The electrostatic front footpad has the design shape of a droplet and is made of a polyimide (PI; 5um in thickness) film at the bottom with a Ti/Au (10/100 nm) electrode on the top. The total footpad area is 32 mm2, as shown in Fig. 1C. A PET frame is attached on top of the footpad with the help of silicone adhesive as the mechanical support. The electrodes of the right and left footpads are connected to the bottom and top electrodes of the piezoelectric unimorph robot body, respectively. The droplet-shaped design is helpful to enlarge the contact area between the footpad and the ground surface with little impact on the linear moving speed.
     ![image](https://user-images.githubusercontent.com/26667177/129678114-f1b5deb6-4e39-4b5b-bb2e-1ad4f43d7db1.png)
     
-  * 3.Fabrication   
-    * The fabrication processes are given in Materials and Methods on the basis of the previous work (18) with added electrostatic footpads.
-    
-  * 4.Motion  
+  * 3.Motion  
     * Under the excitation of an AC driving voltage at the structural resonant frequency (113 to 190 Hz for the prototypes with slightly different design and fabrication variations), **the curved piezoelectric unimorph structure can extend and shrink repeatedly to result in the rear leg and the two front legs striking the ground for fast forward movements** (fig. S1).
     ![image](https://user-images.githubusercontent.com/26667177/129679808-aaf42f49-e9df-4e0c-a8a9-0a3ed6f4376e.png)
     * In nature, an ant can change the friction force with the ground by secretion, as shown in Fig. 1D, to help its locomotion on smooth or vertical surfaces (28). The agility of the soft robot can be markedly improved by adding two electrostatic footpads to adjust its friction force (f_shear), as shown in Fig. 1E. By **adjusting the friction force** between the right and left electrostatic footpads, the robot can produce movements with adjustable trajectories, including straight, clockwise, and counterclockwise motions. A high gradient value, which is proportional to the electrostatic adhesion force and inversely proportional to the mass, implies that the robot can easily make a turning motion. As such, a large applied voltage together with a low body mass can increase the agility.
@@ -85,8 +82,11 @@ year: 2021
     
     ![image](https://user-images.githubusercontent.com/26667177/129729155-0fa969a0-ebce-4478-8882-1b28e7f3d543.png)
     ![image](https://user-images.githubusercontent.com/26667177/129729346-66697298-9c1e-4b99-91d5-bce931b2ea2e.png)
-
-
+    
+  * 4.Fabrication   
+    * The fabrication processes are given in Materials and Methods on the basis of the previous work (18) with added electrostatic footpads.
+    
+    ![image](https://user-images.githubusercontent.com/26667177/129730400-57d5ab68-be50-4fa9-917b-d61cc1b22b42.png)
 
 
 ### [mark] Untethered operations
