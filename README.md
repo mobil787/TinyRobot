@@ -46,8 +46,8 @@ https://robotics.sciencemag.org/content/6/55/eabe7906
 year: 2021
 
 #### Abstract:   
-1.  
-2. 
+1. 通过一定频率的AC电压激励，让可弯曲的单压电薄膜(curved unimorph piezoelectric film)伸缩产生前进的动力。
+2. 改变（静电）前脚板对地的摩擦力，能够实现转弯。
 
 #### abbrev
 * curved unimorph piezoelectric film 可弯曲的单压电薄膜
@@ -75,6 +75,7 @@ year: 2021
     * Under the excitation of an AC driving voltage at the structural resonant frequency (113 to 190 Hz for the prototypes with slightly different design and fabrication variations), **the curved piezoelectric unimorph structure can extend and shrink repeatedly to result in the rear leg and the two front legs striking the ground for fast forward movements** (fig. S1).
     ![image](https://user-images.githubusercontent.com/26667177/129679808-aaf42f49-e9df-4e0c-a8a9-0a3ed6f4376e.png)
     * In nature, an ant can change the friction force with the ground by secretion, as shown in Fig. 1D, to help its locomotion on smooth or vertical surfaces (28). The agility of the soft robot can be markedly improved by adding two electrostatic footpads to adjust its friction force (f_shear), as shown in Fig. 1E. By **adjusting the friction force** between the right and left electrostatic footpads, the robot can produce movements with adjustable trajectories, including straight, clockwise, and counterclockwise motions. A high gradient value, which is proportional to the electrostatic adhesion force and inversely proportional to the mass, implies that the robot can easily make a turning motion. As such, a large applied voltage together with a low body mass can increase the agility.
+    
     ![image](https://user-images.githubusercontent.com/26667177/129682226-fcffb69e-27fc-44d3-9d22-127450cce31c.png)
 
 
