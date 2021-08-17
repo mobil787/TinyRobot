@@ -46,7 +46,7 @@ https://robotics.sciencemag.org/content/6/55/eabe7906
 year: 2021
 
 #### Abstract:   
-1. 通过一定频率的AC电压激励，让可弯曲的单压电薄膜(curved unimorph piezoelectric film)伸缩产生前进的动力。
+1. 通过一定频率的AC电压激励，让可弯曲的单压电薄膜(curved unimorph piezoelectric film)或PVDF伸缩产生前进的动力。
 2. 改变（静电）前脚板对地的摩擦力，能够实现转弯。
 
 #### abbrev
@@ -56,6 +56,7 @@ year: 2021
 * PVDF: piezoelectric polyvinylidene fluoride 压电聚偏二氟乙烯
 * PET: polyethylene terephthalate 聚对苯二甲酸乙二醇酯（树脂材料）
 * PI: polyimide 聚酰亚胺（一种高性能工程材料,在高温下具有优异的物理和化学性能,已作为多种材料广泛应用于微电子包装、高温粘合剂及复合材料等）
+* COT: cost of transport 单位距离能耗
 
 #### Key word
 
@@ -77,6 +78,15 @@ year: 2021
     * In nature, an ant can change the friction force with the ground by secretion, as shown in Fig. 1D, to help its locomotion on smooth or vertical surfaces (28). The agility of the soft robot can be markedly improved by adding two electrostatic footpads to adjust its friction force (f_shear), as shown in Fig. 1E. By **adjusting the friction force** between the right and left electrostatic footpads, the robot can produce movements with adjustable trajectories, including straight, clockwise, and counterclockwise motions. A high gradient value, which is proportional to the electrostatic adhesion force and inversely proportional to the mass, implies that the robot can easily make a turning motion. As such, a large applied voltage together with a low body mass can increase the agility.
     
     ![image](https://user-images.githubusercontent.com/26667177/129682226-fcffb69e-27fc-44d3-9d22-127450cce31c.png)
+    
+  * 5.Untethered design
+    * An untethered version of the soft robot (2.4 cm by 2.2 cm, 240 mg) together with **a payload of 1.66 g** —including a battery (3.7 V, 40 mAh; HuiXinLi Inc.), two photo sensors (GL3549, JCGL Inc.), and a flexible circuit board. The measured resonance frequency was 410 Hz; Specifically, the circuit can output a 500-Vpp driving voltage to the robot’s main body. 
+    * two photoresistors were used to realize the turning function of the robot with an analog control scheme (53) as illustrated in Fig. 5C, with a detailed circuit diagram in fig. S16A.
+    
+    ![image](https://user-images.githubusercontent.com/26667177/129729155-0fa969a0-ebce-4478-8882-1b28e7f3d543.png)
+    ![image](https://user-images.githubusercontent.com/26667177/129729346-66697298-9c1e-4b99-91d5-bce931b2ea2e.png)
+
+
 
 
 ### [mark] Untethered operations
