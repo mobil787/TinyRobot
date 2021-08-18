@@ -100,12 +100,20 @@ year: 2021
 * 
 
 #### Key Notes
- * 1.conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
+ * 1.conventional .
  * 2.strategy 
+
+
+ * 3.Motion  
+   * When the robot is in a big gap, where the ratio between the robot length and the gap width is smaller than 2.6 (fig. S2), applying **B** in the x-z plane can deform it into a “C” shape. Its orientation is determined by the direction of **B** (Fig. 1Bi). When the robot comes into a small gap, where >2.6, applying **B** in the x-z plane no longer produces the C shape, while a sinusoidal shape appears because of the squeezing of the upper and lower boundaries. The positions of the wave crests and troughs are determined by the direction of **B** (Fig. 1Bii). When the robot navigates into a cylindrical tube, which has an inner diameter larger than the robot width, applying a rotating **B** in the z-y plane can twist it into a helical shape (Fig. 1Biii). By using these shape changes ,the robot can achieve adaptive locomotion in confined spaces with different cross-sectional geometries and sizes (Fig. 1C).  
+![image](https://user-images.githubusercontent.com/26667177/129909106-27872bdd-c14f-4102-b419-77cbf6608ede.png)
+
+
+
 
  * Fabrication and Materials
    * To program the sinusoidal magnetization profile along the robot length, the robot was cut from a thin film of the magnetic composite elastomer, wrapped to a nonmagnetic cylindrical rod with the help of water-soluble glue, and lastly magnetized in a 1.8-T uniform magnetic field (Fig. 1A, i to iii).
-   * The ferromagnetic neodymium-iron-boron (NdFeB) microparticles tend to align their magnetization directions along with the external magnetic field B→ , inducing torques that deform the soft elastomeric robot body (8, 23).
+   * The ferromagnetic neodymium-iron-boron (NdFeB) microparticles tend to align their magnetization directions along with the external magnetic field B→ , inducing torques that deform the soft elastomeric robot body (8, 23). The sheet-shaped robots developed in this study had the same width (1 mm) and thickness (0.24 mm) and similar sinusoidal magnetization profiles with an initial phase shift of 45° (Fig. 1Aiv). The robot lengths were designed to be at least 11 times larger than the robot thickness to achieve large deformations (fig. S1).  
 ![image](https://user-images.githubusercontent.com/26667177/129904871-fa6ac884-f5f8-40ef-b9dd-5ae688060866.png)
 
 
