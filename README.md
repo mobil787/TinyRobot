@@ -86,13 +86,27 @@ year: 2021
     ![image](https://user-images.githubusercontent.com/26667177/129730400-57d5ab68-be50-4fa9-917b-d61cc1b22b42.png)
 
 
-### [mark] Untethered operations
+---
 
-    
-    
+### [M05] Soft-bodied adaptive multimodal locomotion strategies in fluid-filled confined spaces 软体机器人目标在人体血管移动
+https://advances.sciencemag.org/content/7/27/eabh2022
+year: 2021
 
+#### Abstract:   
+1. 。
+2.   
 
+#### abbrev
+* 
 
+#### Key Notes
+ * 1.conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
+ * 2.strategy 
+
+ * Fabrication and Materials
+   * To program the sinusoidal magnetization profile along the robot length, the robot was cut from a thin film of the magnetic composite elastomer, wrapped to a nonmagnetic cylindrical rod with the help of water-soluble glue, and lastly magnetized in a 1.8-T uniform magnetic field (Fig. 1A, i to iii).
+   * The ferromagnetic neodymium-iron-boron (NdFeB) microparticles tend to align their magnetization directions along with the external magnetic field B→ , inducing torques that deform the soft elastomeric robot body (8, 23).
+![image](https://user-images.githubusercontent.com/26667177/129904871-fa6ac884-f5f8-40ef-b9dd-5ae688060866.png)
 
 
 
