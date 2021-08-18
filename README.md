@@ -27,16 +27,16 @@ year: 2015
   * Finally, the stiffness of the actuator, *k*, can be calculated by dividing the triggering force by actuator stroke: ...
   * By varying the design of the passive trigger, various robot prototypes with different actuator stiffnesses were prepared. Table S2 lists their driving forces.
 
+* Motion: **The TRC mechanism**
+  * The robot was untethered but **triggered by external heat**. The heating wire (Ni-Cr wire) protruded 1 mm from the free surface, and the actuator was positioned right above the heating wire when the robot was put on the free surface. The actuator was heated by thermal convection around the heating wire until the torque direction reversed.
+  * When **heated** above its transition temperature, the actuator’s stiffness changes, inducing a negative strain and pulling the passive trigger in the body structure until the torque direction is reversed (Fig. 3, A to C).
+  * A thin **heating wire** was carefully placed just below the robot body to activate the SMA actuator. As the SMA actuator transitions, the force increases, and the passive trigger begins to bend (Fig. 3, A to C).When the actuator passes through the center joint, the torque direction changes, and the body structure folds downward, generating a rapid snap-through.
+
 * Fabrication and Materials
   * The robot structure was designed so that the smart composite microstructures (SCM) manufacturing process could be applied (24).
   * Fabrication of the jumping robotic insect using SCM (Fig. S5).  
   ![img](./images/01_3.png)  
   <!-- <img src="./images/01_3.png" alt="img" style="zoom:20%;" /> -->
-
-* The TRC mechanism
-  * The robot was untethered but **triggered by external heat**. The heating wire (Ni-Cr wire) protruded 1 mm from the free surface, and the actuator was positioned right above the heating wire when the robot was put on the free surface. The actuator was heated by thermal convection around the heating wire until the torque direction reversed.
-  * When **heated** above its transition temperature, the actuator’s stiffness changes, inducing a negative strain and pulling the passive trigger in the body structure until the torque direction is reversed (Fig. 3, A to C).
-  * A thin **heating wire** was carefully placed just below the robot body to activate the SMA actuator. As the SMA actuator transitions, the force increases, and the passive trigger begins to bend (Fig. 3, A to C).When the actuator passes through the center joint, the torque direction changes, and the body structure folds downward, generating a rapid snap-through.
 
 ---
 
@@ -58,10 +58,7 @@ year: 2021
 * PI: polyimide 聚酰亚胺（一种高性能工程材料,在高温下具有优异的物理和化学性能,已作为多种材料广泛应用于微电子包装、高温粘合剂及复合材料等）
 * COT: cost of transport 单位距离能耗
 
-#### Key word
-
-
-#### Notes
+#### Key Notes
  * 1.conventional rigid-body robots can use **differential gaits** to realize turning motions similar to those in insects (5–10).
  * 2.strategy 
     * In nature, insects having flexible bodies can dynamically tune the friction force with secretions between their feet and the ground to improve locomotion (23–27). Similar schemes have been emulated in small-scale robots to accomplish various exceptional functions, such as climbing on a vertical wall using the electrostatic force for attachments (7, 19).  The friction force between the electrostatic footpads and the ground can be independently adjusted by varying the footpads DC bias voltages to regulate the moving trajectory.
