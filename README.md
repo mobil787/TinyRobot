@@ -105,9 +105,16 @@ year: 2021
 
 
  * 3.Motion  
-   * When the robot is in a big gap, where the ratio between the robot length and the gap width is smaller than 2.6 (fig. S2), applying **B** in the x-z plane can deform it into a “C” shape. Its orientation is determined by the direction of **B** (Fig. 1Bi). When the robot comes into a small gap, where >2.6, applying **B** in the x-z plane no longer produces the C shape, while a sinusoidal shape appears because of the squeezing of the upper and lower boundaries. The positions of the wave crests and troughs are determined by the direction of **B** (Fig. 1Bii). When the robot navigates into a cylindrical tube, which has an inner diameter larger than the robot width, applying a rotating **B** in the z-y plane can twist it into a helical shape (Fig. 1Biii). By using these shape changes ,the robot can achieve adaptive locomotion in confined spaces with different cross-sectional geometries and sizes (Fig. 1C).  
+   * Sheet-Shaped
+     * When the robot is in a big gap, where the ratio between the robot length and the gap width is smaller than 2.6 (fig. S2), applying **B** in the x-z plane can deform it into a “C” shape. Its orientation is determined by the direction of **B** (Fig. 1Bi). 
+     * When the robot comes into a small gap, where >2.6, applying **B** in the x-z plane no longer produces the C shape, while a sinusoidal shape appears because of the squeezing of the upper and lower boundaries. The positions of the wave crests and troughs are determined by the direction of **B** (Fig. 1Bii). 
+     * When the robot navigates into a cylindrical tube, which has an inner diameter larger than the robot width, applying a rotating **B** in the z-y plane can twist it into a helical shape (Fig. 1Biii). By using these shape changes ,the robot can achieve adaptive locomotion in confined spaces with different cross-sectional geometries and sizes (Fig. 1C).  
 ![image](https://user-images.githubusercontent.com/26667177/129909106-27872bdd-c14f-4102-b419-77cbf6608ede.png)
 
+   * Undulatory crawling locomotion mode  
+     By applying a rotating B→ in the x-z plane, the sheet-shaped robot produced traveling waves along the body’s longitudinal direction and achieved two distinct locomotion modes in a small gap filled with viscous fluid (343 cSt). As the experiments show in Fig. 2A and movie S1, a rotating B → with a frequency of 1 Hz resulted in locomotion in the same direction as the traveling body wave of the robot. However, keeping the magnitude and the rotating direction of B→ fixed while increasing the actuation frequency to 10 Hz reversed the robot locomotion direction. When the robot is actuated at different frequencies or placed in different fluid viscosities, it is subjected to different friction and hydrodynamic forces. Thus, the transition between the undulatory swimming and crawling modes is largely dictated by the fluid viscosity and the rotating frequency of **B**.
+
+   * 
 
 
 
